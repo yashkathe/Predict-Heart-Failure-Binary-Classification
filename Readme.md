@@ -9,4 +9,5 @@ A classification algorithm in machine learning is used to categorize data into p
 
 ## Table of Content
 
-- [Binary Classify Heart Failure](./classify-heart-failure.ipynb)
+- [Binary Classify Heart Failure - 5 features](./classify-heart-failure.ipynb)
+- [Binary Classify Heart Failure - 3 features](./classify-heart-failure-2.ipynb)
