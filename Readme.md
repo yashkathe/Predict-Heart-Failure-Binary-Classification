@@ -12,6 +12,8 @@ A classification algorithm in machine learning is used to categorize data into p
 ## Table of Content
 
 - [Plotting Sigmoid Function](./sigmoid-function.ipynb)
-- [Binary Classify Heart Failure - 5 features - Kaggle Dataset](./classify-heart-failure.ipynb)
+- [Binary Classify Heart Failure - 8 features - Kaggle Dataset](./classify-heart-failure.ipynb)⭐
+![plot 1](image.png)
 - [Binary Classify Heart Failure - 3 features - Kaggle Dataset](./classify-heart-failure-2.ipynb)
 - [Binary Classify Heart Failure - 7 features - UCI Dataset](./class-heart-failure-ds-2.ipynb) ⭐
+![alt text](image-1.png)
